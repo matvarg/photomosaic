@@ -133,3 +133,6 @@ dmypy.json
 *.png
 *.jpeg
 *.tiff
+
+# Mac
+.DS_Store
